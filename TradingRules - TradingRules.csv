@@ -1,0 +1,5 @@
+Condition,Rule,Recommendation,RiskGuideline
+Trending,Higher highs + higher lows OR lower highs + lower lows,Trade with the trend; look for pullbacks,Standard risk (1–2%)
+Ranging,Price bouncing between support & resistance,Trade bounces at range extremes,Smaller position size
+High Volatility,"Large candles, big wicks, wide ATR",Wait for structure before entering,"Wider stops, smaller size"
+Low Volatility,"Small candles, tight ranges ",Be patient; avoid forcing trades,"Tight stops, normal size"
